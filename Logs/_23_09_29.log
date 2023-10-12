@@ -1,0 +1,219 @@
+2023-09-29 15:45:04,518 ERROR : UserForm > setup_urls : type object 'UserForm' has no attribute 'MODULE'
+2023-09-29 15:45:04,547 ERROR : CommonOperations > get_web_element > Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form//*[@id='label-for-id-237']"}
+  (Session info: chrome=117.0.5938.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0084CEB3+45171]
+	(No symbol) [0x007D9101]
+	(No symbol) [0x006CBE1D]
+	(No symbol) [0x006FED40]
+	(No symbol) [0x006FF20B]
+	(No symbol) [0x0072F692]
+	(No symbol) [0x0071B094]
+	(No symbol) [0x0072DCFA]
+	(No symbol) [0x0071AE46]
+	(No symbol) [0x006F675E]
+	(No symbol) [0x006F78FD]
+	GetHandleVerifier [0x00B054B9+2897529]
+	GetHandleVerifier [0x00B4DC6B+3194411]
+	GetHandleVerifier [0x00B47A41+3169281]
+	GetHandleVerifier [0x008D6130+606960]
+	(No symbol) [0x007E2E7C]
+	(No symbol) [0x007DF008]
+	(No symbol) [0x007DF12F]
+	(No symbol) [0x007D1827]
+	BaseThreadInitThunk [0x774D7BA9+25]
+	RtlInitializeExceptionChain [0x77E6B79B+107]
+	RtlClearBits [0x77E6B71F+191]
+
+2023-09-29 15:45:04,547 ERROR : UserForm > setup_elements > 'NoneType' object has no attribute 'send_keys'
+2023-09-29 15:45:22,122 ERROR : UserForm > setup_urls : type object 'UserForm' has no attribute 'MODULE'
+2023-09-29 15:45:22,157 ERROR : CommonOperations > get_web_element > Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form//*[@id='label-for-id-237']"}
+  (Session info: chrome=117.0.5938.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0084CEB3+45171]
+	(No symbol) [0x007D9101]
+	(No symbol) [0x006CBE1D]
+	(No symbol) [0x006FED40]
+	(No symbol) [0x006FF20B]
+	(No symbol) [0x0072F692]
+	(No symbol) [0x0071B094]
+	(No symbol) [0x0072DCFA]
+	(No symbol) [0x0071AE46]
+	(No symbol) [0x006F675E]
+	(No symbol) [0x006F78FD]
+	GetHandleVerifier [0x00B054B9+2897529]
+	GetHandleVerifier [0x00B4DC6B+3194411]
+	GetHandleVerifier [0x00B47A41+3169281]
+	GetHandleVerifier [0x008D6130+606960]
+	(No symbol) [0x007E2E7C]
+	(No symbol) [0x007DF008]
+	(No symbol) [0x007DF12F]
+	(No symbol) [0x007D1827]
+	BaseThreadInitThunk [0x774D7BA9+25]
+	RtlInitializeExceptionChain [0x77E6B79B+107]
+	RtlClearBits [0x77E6B71F+191]
+
+2023-09-29 15:45:22,157 ERROR : UserForm > setup_elements > 'NoneType' object has no attribute 'send_keys'
+2023-09-29 15:49:01,583 ERROR : UserForm > setup_urls : type object 'UserForm' has no attribute 'MODULE'
+2023-09-29 15:49:01,607 ERROR : CommonOperations > get_web_element > Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form//*[@id='label-for-id-237']"}
+  (Session info: chrome=117.0.5938.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0084CEB3+45171]
+	(No symbol) [0x007D9101]
+	(No symbol) [0x006CBE1D]
+	(No symbol) [0x006FED40]
+	(No symbol) [0x006FF20B]
+	(No symbol) [0x0072F692]
+	(No symbol) [0x0071B094]
+	(No symbol) [0x0072DCFA]
+	(No symbol) [0x0071AE46]
+	(No symbol) [0x006F675E]
+	(No symbol) [0x006F78FD]
+	GetHandleVerifier [0x00B054B9+2897529]
+	GetHandleVerifier [0x00B4DC6B+3194411]
+	GetHandleVerifier [0x00B47A41+3169281]
+	GetHandleVerifier [0x008D6130+606960]
+	(No symbol) [0x007E2E7C]
+	(No symbol) [0x007DF008]
+	(No symbol) [0x007DF12F]
+	(No symbol) [0x007D1827]
+	BaseThreadInitThunk [0x774D7BA9+25]
+	RtlInitializeExceptionChain [0x77E6B79B+107]
+	RtlClearBits [0x77E6B71F+191]
+
+2023-09-29 15:49:01,607 ERROR : UserForm > setup_elements > 'NoneType' object has no attribute 'send_keys'
+2023-09-29 15:50:09,262 ERROR : UserForm > setup_urls : type object 'UserForm' has no attribute 'MODULE'
+2023-09-29 15:50:09,278 ERROR : CommonOperations > get_web_element > Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form//*[@id='label-for-id-237']"}
+  (Session info: chrome=117.0.5938.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0084CEB3+45171]
+	(No symbol) [0x007D9101]
+	(No symbol) [0x006CBE1D]
+	(No symbol) [0x006FED40]
+	(No symbol) [0x006FF20B]
+	(No symbol) [0x0072F692]
+	(No symbol) [0x0071B094]
+	(No symbol) [0x0072DCFA]
+	(No symbol) [0x0071AE46]
+	(No symbol) [0x006F675E]
+	(No symbol) [0x006F78FD]
+	GetHandleVerifier [0x00B054B9+2897529]
+	GetHandleVerifier [0x00B4DC6B+3194411]
+	GetHandleVerifier [0x00B47A41+3169281]
+	GetHandleVerifier [0x008D6130+606960]
+	(No symbol) [0x007E2E7C]
+	(No symbol) [0x007DF008]
+	(No symbol) [0x007DF12F]
+	(No symbol) [0x007D1827]
+	BaseThreadInitThunk [0x774D7BA9+25]
+	RtlInitializeExceptionChain [0x77E6B79B+107]
+	RtlClearBits [0x77E6B71F+191]
+
+2023-09-29 15:50:09,278 ERROR : UserForm > setup_elements > 'NoneType' object has no attribute 'send_keys'
+2023-09-29 16:08:29,803 ERROR : UserForm > setup : local variable 'driver' referenced before assignment
+2023-09-29 16:08:29,803 ERROR : UserForm > setup_elements > local variable 'driver' referenced before assignment
+2023-09-29 16:10:48,434 ERROR : UserForm > setup : local variable 'driver' referenced before assignment
+2023-09-29 16:14:18,247 ERROR : CommonOperations > get_web_element > Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form//*[@id='label-for-id-237']"}
+  (Session info: chrome=117.0.5938.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0084CEB3+45171]
+	(No symbol) [0x007D9101]
+	(No symbol) [0x006CBE1D]
+	(No symbol) [0x006FED40]
+	(No symbol) [0x006FF20B]
+	(No symbol) [0x0072F692]
+	(No symbol) [0x0071B094]
+	(No symbol) [0x0072DCFA]
+	(No symbol) [0x0071AE46]
+	(No symbol) [0x006F675E]
+	(No symbol) [0x006F78FD]
+	GetHandleVerifier [0x00B054B9+2897529]
+	GetHandleVerifier [0x00B4DC6B+3194411]
+	GetHandleVerifier [0x00B47A41+3169281]
+	GetHandleVerifier [0x008D6130+606960]
+	(No symbol) [0x007E2E7C]
+	(No symbol) [0x007DF008]
+	(No symbol) [0x007DF12F]
+	(No symbol) [0x007D1827]
+	BaseThreadInitThunk [0x774D7BA9+25]
+	RtlInitializeExceptionChain [0x77E6B79B+107]
+	RtlClearBits [0x77E6B71F+191]
+
+2023-09-29 16:14:50,397 ERROR : CommonOperations > get_web_element > Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form//*[@id='label-for-id-237']"}
+  (Session info: chrome=117.0.5938.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0084CEB3+45171]
+	(No symbol) [0x007D9101]
+	(No symbol) [0x006CBE1D]
+	(No symbol) [0x006FED40]
+	(No symbol) [0x006FF20B]
+	(No symbol) [0x0072F692]
+	(No symbol) [0x0071B094]
+	(No symbol) [0x0072DCFA]
+	(No symbol) [0x0071AE46]
+	(No symbol) [0x006F675E]
+	(No symbol) [0x006F78FD]
+	GetHandleVerifier [0x00B054B9+2897529]
+	GetHandleVerifier [0x00B4DC6B+3194411]
+	GetHandleVerifier [0x00B47A41+3169281]
+	GetHandleVerifier [0x008D6130+606960]
+	(No symbol) [0x007E2E7C]
+	(No symbol) [0x007DF008]
+	(No symbol) [0x007DF12F]
+	(No symbol) [0x007D1827]
+	BaseThreadInitThunk [0x774D7BA9+25]
+	RtlInitializeExceptionChain [0x77E6B79B+107]
+	RtlClearBits [0x77E6B71F+191]
+
+2023-09-29 16:21:41,751 ERROR : CommonOperations > get_web_element > Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form//*[@id='label-for-id-237']"}
+  (Session info: chrome=117.0.5938.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0084CEB3+45171]
+	(No symbol) [0x007D9101]
+	(No symbol) [0x006CBE1D]
+	(No symbol) [0x006FED40]
+	(No symbol) [0x006FF20B]
+	(No symbol) [0x0072F692]
+	(No symbol) [0x0071B094]
+	(No symbol) [0x0072DCFA]
+	(No symbol) [0x0071AE46]
+	(No symbol) [0x006F675E]
+	(No symbol) [0x006F78FD]
+	GetHandleVerifier [0x00B054B9+2897529]
+	GetHandleVerifier [0x00B4DC6B+3194411]
+	GetHandleVerifier [0x00B47A41+3169281]
+	GetHandleVerifier [0x008D6130+606960]
+	(No symbol) [0x007E2E7C]
+	(No symbol) [0x007DF008]
+	(No symbol) [0x007DF12F]
+	(No symbol) [0x007D1827]
+	BaseThreadInitThunk [0x774D7BA9+25]
+	RtlInitializeExceptionChain [0x77E6B79B+107]
+	RtlClearBits [0x77E6B71F+191]
+
+2023-09-29 16:25:42,195 ERROR : CommonOperations > get_web_element > Message: no such element: Unable to locate element: {"method":"xpath","selector":"//form//*[@id='label-for-id-245']"}
+  (Session info: chrome=117.0.5938.132); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x0084CEB3+45171]
+	(No symbol) [0x007D9101]
+	(No symbol) [0x006CBE1D]
+	(No symbol) [0x006FED40]
+	(No symbol) [0x006FF20B]
+	(No symbol) [0x0072F692]
+	(No symbol) [0x0071B094]
+	(No symbol) [0x0072DCFA]
+	(No symbol) [0x0071AE46]
+	(No symbol) [0x006F675E]
+	(No symbol) [0x006F78FD]
+	GetHandleVerifier [0x00B054B9+2897529]
+	GetHandleVerifier [0x00B4DC6B+3194411]
+	GetHandleVerifier [0x00B47A41+3169281]
+	GetHandleVerifier [0x008D6130+606960]
+	(No symbol) [0x007E2E7C]
+	(No symbol) [0x007DF008]
+	(No symbol) [0x007DF12F]
+	(No symbol) [0x007D1827]
+	BaseThreadInitThunk [0x774D7BA9+25]
+	RtlInitializeExceptionChain [0x77E6B79B+107]
+	RtlClearBits [0x77E6B71F+191]
+

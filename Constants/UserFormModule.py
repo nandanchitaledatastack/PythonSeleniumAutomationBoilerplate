@@ -1,0 +1,13 @@
+class UserFormElements:
+    MODULE="userform"
+    USERFORM = "userform"
+    BUSINESS_NAME = "businessName"
+    FIRST_NAME = "firstName"
+    MIDDLE_NAME = "middleName"
+    LAST_NAME = "lastName"
+    STREET = "street"
+    CITY = "city"
+    STATE = "state"
+    POSTAL_CODE = "postalCode"
+    COUNTRY = "country"
+    SUBMIT = "submit"

@@ -1,0 +1,20 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Selenium-specific
+geckodriver.log
+
+# IDE-specific
+.vscode/
+.idea/
+
+# Dependency management
+venv/
+env/
+
+*.xlsx
+
+*.code-workspace
