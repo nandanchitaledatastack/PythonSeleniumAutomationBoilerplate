@@ -15,6 +15,4 @@ geckodriver.log
 venv/
 env/
 
-*.xlsx
-
 *.code-workspace
